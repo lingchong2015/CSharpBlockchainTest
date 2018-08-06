@@ -7,6 +7,8 @@ namespace CSharpBlockchainTest
     {
         static void Main(string[] args)
         {
+            BitcoinAddress.KeyTest();
+
             RandomUtils.Random = new UnsecureRandom();
             var privateKey = new Key();
             var pubKey = privateKey.PubKey;
