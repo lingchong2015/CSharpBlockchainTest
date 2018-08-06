@@ -1,0 +1,11 @@
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\bin\Debug\netcoreapp2.0\CSharpBlockchainTest.deps.json
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\bin\Debug\netcoreapp2.0\CSharpBlockchainTest.runtimeconfig.json
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\bin\Debug\netcoreapp2.0\CSharpBlockchainTest.runtimeconfig.dev.json
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\bin\Debug\netcoreapp2.0\CSharpBlockchainTest.dll
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\bin\Debug\netcoreapp2.0\CSharpBlockchainTest.pdb
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\obj\Debug\netcoreapp2.0\CSharpBlockchainTest.csprojResolveAssemblyReference.cache
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\obj\Debug\netcoreapp2.0\CSharpBlockchainTest.csproj.CoreCompileInputs.cache
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\obj\Debug\netcoreapp2.0\CSharpBlockchainTest.AssemblyInfoInputs.cache
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\obj\Debug\netcoreapp2.0\CSharpBlockchainTest.AssemblyInfo.cs
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\obj\Debug\netcoreapp2.0\CSharpBlockchainTest.dll
+C:\Works\Codes\Project\BlockChain\CSharpBlockchainTest\obj\Debug\netcoreapp2.0\CSharpBlockchainTest.pdb
